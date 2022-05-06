@@ -1,0 +1,1 @@
+vhdtdtfi -prj CACHE2 -o /home/student2/nssheth/Desktop/coe758/temp/CPU_gen.vhi -module CPU_gen -template /CMC/tools/xilinx/13.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work CPU_gen.vhd 
